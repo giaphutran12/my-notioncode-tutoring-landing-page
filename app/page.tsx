@@ -17,7 +17,7 @@ export default function Home() {
         <div className="mx-auto flex h-14 max-w-6xl items-center justify-between px-6">
           <div className="flex items-center gap-2">
             <span className="text-lg font-semibold tracking-tight">
-              Summit Math
+              Smart Math BC
             </span>
           </div>
           <nav className="hidden items-center gap-6 text-sm md:flex">
@@ -199,7 +199,7 @@ export default function Home() {
         <div className="mx-auto max-w-6xl">
           <div className="mb-12 text-center">
             <h2 className="text-2xl font-semibold tracking-tight md:text-3xl">
-              Why families choose Summit Math
+              Why families choose Smart Math BC
             </h2>
             <p className="mt-3 text-sm text-muted-foreground md:text-base">
               We&apos;re not a tutoring factory. Every session is intentional.
@@ -275,7 +275,7 @@ export default function Home() {
               },
               {
                 quote:
-                  "We've tried three different tutoring services. Summit is the only one where my son felt comfortable asking questions.",
+                  "We've tried three different tutoring services. Smart Math BC is the only one where my son felt comfortable asking questions.",
                 name: "David & Lin K.",
                 detail: "Parents, 6th grader",
               },
@@ -416,7 +416,7 @@ export default function Home() {
       <footer className="border-t border-border px-6 py-10">
         <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-4 text-xs text-muted-foreground sm:flex-row">
           <span>
-            &copy; {new Date().getFullYear()} Summit Math Tutoring. All rights
+            &copy; {new Date().getFullYear()} Smart Math BC Tutoring. All rights
             reserved.
           </span>
           <div className="flex gap-6">
